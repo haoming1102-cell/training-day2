@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "10uUdpNKzZtbB68h7j/yMvubvaPGVmp1ahf39iqX0SaIO43l5zfg4Rw4N3DWnaKYDjiATLuP1WhHzehqpngVEA==",
+  "success": true,
+  "projectFilePath": "/home/trainees/day2/cobol-training-day2/module_5/samples/01_CobolCallsCSharp/CSharpLib/CSharpLib.csproj",
+  "expectedPackageFiles": [
+    "/home/trainees/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.30/microsoft.dotnet.ilcompiler.8.0.30.nupkg.sha512",
+    "/home/trainees/.nuget/packages/microsoft.net.illink.tasks/8.0.30/microsoft.net.illink.tasks.8.0.30.nupkg.sha512",
+    "/home/trainees/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.30/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
